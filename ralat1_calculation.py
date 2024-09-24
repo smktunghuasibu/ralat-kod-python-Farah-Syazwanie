@@ -5,7 +5,7 @@ def calculation(a, b):
     division = a / b
     return round(division, 2)
 
-def get_input():
+def get_input(): 
     x = int(input("Masukkan nombor integer pertama:"))
     y = int(input("Masukkan nombor integer kedua:"))
     return x, y
