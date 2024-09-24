@@ -4,7 +4,7 @@
 import math
 pi = 3.142
 
-def dapat_jejari_tinggi():
+def dapat_jejari_tinggi(): 
     a = float(input("Masukkan jejari: "))
     b = float(input("Masukkan tinggi: "))
     return (a, b)
